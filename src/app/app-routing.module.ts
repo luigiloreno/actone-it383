@@ -6,7 +6,6 @@ import { UserTwoComponent } from './user-two/user-two.component';
 const routes: Routes = [
   { path: 'user-form', component: UserFormComponent },
   { path: 'user-two', component: UserTwoComponent },
-  { path: '**', redirectTo: "" },
 ];
 
 @NgModule({
