@@ -1,0 +1,13 @@
+.app-wrapper mat-toolbar {
+    background: rgb(31, 116, 5);
+    color: rgb(246, 249, 250);
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.app-page {
+    padding: 10px;
+    grid-gap: 20px;
+    background: #e8e7ee;
+}
